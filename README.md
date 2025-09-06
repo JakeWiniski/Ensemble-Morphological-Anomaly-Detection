@@ -1,4 +1,4 @@
-### Ensemble Morphological Anomaly Detection - ReadMe
+### Ensemble Morphological Anomaly Detection
 
 This Python-based project is designed to detect and analyze anomalies in transmitted light images by using a combination of image processing techniques, feature extraction, and multiple anomaly detection algorithms. The following describes each step of the code, including the image processing pipeline, feature extraction, and the anomaly detection methods used.
 
