@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this workflow or software, please cite it using the metadata below."
+title: "Ensemble Morphological Anomaly Detection"
+authors:
+  - family-names: "Winiski"
+    given-names: "Jake"
+doi: 10.5281/zenodo.20358820
+url: "https://github.com/JakeWiniski/Ensemble-Morphological-Anomaly-Detection"
+date-released: 2026-05-23
+version: "0.1.0"
+license: "Apache-2.0"
+abstract: >-
+  Initial proof-of-concept release of Ensemble Morphological Anomaly
+  Detection, a workflow for identifying unusual image morphology through
+  image feature extraction and ensemble anomaly detection methods. The
+  pipeline converts grayscale images into structured feature representations
+  using texture statistics and blob-level morphology, then evaluates those
+  features using multiple unsupervised anomaly-detection approaches.
+keywords:
+  - anomaly detection
+  - image analysis
+  - morphology
+  - feature extraction
+  - ensemble learning
+  - unsupervised learning
+  - computer vision
+  - texture analysis
+  - blob detection
+  - materials science
+  - biomaterials
+repository-code: "https://github.com/JakeWiniski/Ensemble-Morphological-Anomaly-Detection"
+type: software
